@@ -172,10 +172,10 @@ Additional performance indicators calculated:
 ## EXPLORATORY DATA ANALYSIS
 
 ### Trend Analysis 
-![Alt text]([https://drive.google.com/drive/folders/1GgH34Mo--KsOvxOD5Zc2f3j6MLlCfonA])
-![Alt text]([image-path-or-url](https://drive.google.com/drive/folders/1GgH34Mo--KsOvxOD5Zc2f3j6MLlCfonA))
-![Alt text]([image-path-or-url](https://drive.google.com/drive/folders/1GgH34Mo--KsOvxOD5Zc2f3j6MLlCfonA))
-![Alt text]([image-path-or-url](https://drive.google.com/drive/folders/1GgH34Mo--KsOvxOD5Zc2f3j6MLlCfonA))
+![Alt text](https://drive.google.com/uc?export=view&id=1AbCDefGHIjkLmNoPQrSTUvwXYZ12)
+![Alt text](https://drive.google.com/uc?export=view&id=1GgH34Mo--KsOvxOD5Zc2f3j6MLlCfonA)
+![Alt text](https://drive.google.com/uc?export=view&id=1GgH34Mo--KsOvxOD5Zc2f3j6MLlCfonA)
+![Alt text](https://drive.google.com/uc?export=view&id=1GgH34Mo--KsOvxOD5Zc2f3j6MLlCfonA)
 ###Key Findings
 - **Revenue concentration** in few high-performing cities
 - **Entire homes** → Higher revenue (not always higher occupancy)
@@ -244,7 +244,7 @@ Revenue heavily concentrated in **major metropolitan cities**. Small % of listin
 ## DASHBOARD DESIGN
 
 Interactive **Google Sheets dashboard** with pivot tables, formulas, and slicers.
-![Alt text](image-path-or-url)
+![Alt text](https://drive.google.com/drive/folders/1GgH34Mo--KsOvxOD5Zc2f3j6MLlCfonA)
 
 
 ### Dashboard Components
@@ -408,6 +408,6 @@ text
 Yashi Agrawal | Archit Gosain | Shivam Dixit | Prince Singh | Kavya Mukhija | Samay Samrat | Pratyush Parida
 
 **Links:**  
-📊 [Google Sheets Dashboard]([insert-link](https://docs.google.com/spreadsheets/d/1uUS19DZOmRPpP0dIIqeO2hyi-BboDQyT7nwTV-ibpg8/edit?usp=sharing))  
-📄 [Full Report]([insert-link](https://www.canva.com/design/DAHBkrILuRY/18MnbsAozONtbbR1yO2ijg/edit?utm_content=DAHBkrILuRY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))  
-🎯 [PPT Presentation]([insert-link](https://www.canva.com/design/DAHBnVQ7Or4/HI0f5QFrERjA3XLOAzoC8w/edit?utm_content=DAHBnVQ7Or4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+📊 [Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1uUS19DZOmRPpP0dIIqeO2hyi-BboDQyT7nwTV-ibpg8/edit?usp=sharing)  
+📄 [Full Report](https://www.canva.com/design/DAHBkrILuRY/18MnbsAozONtbbR1yO2ijg/edit?utm_content=DAHBkrILuRY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+🎯 [PPT Presentation](https://www.canva.com/design/DAHBnVQ7Or4/HI0f5QFrERjA3XLOAzoC8w/edit?utm_content=DAHBnVQ7Or4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
